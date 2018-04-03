@@ -1,0 +1,49 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/force:unresolved'
+  CSX_Cvar.cpp
+  CSX_Hook.cpp
+  CSX_Log.cpp
+  CSX_Memory.cpp
+  CSX_Utils.cpp
+  Aimbot.cpp
+  LagComp.cpp
+  Client.cpp
+  Esp.cpp
+  InventoryChanger.cpp
+  Knifebot.cpp
+  Misc.cpp
+  Radar.cpp
+  DynSkin.cpp
+  Skin.cpp
+  Engine.cpp
+  Entity.cpp
+  Hook.cpp
+  NetVar.cpp
+  Offset.cpp
+  Generating Code...
+  Compiling...
+  Players.cpp
+  Render.cpp
+  Weapon.cpp
+  CGrenadeAPI.cpp
+  Gui.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  License.cpp
+  Main.cpp
+  ReflectiveLoader.cpp
+  CRC.cpp
+  KeyValues.cpp
+  SDK.cpp
+  Sounds.cpp
+  Spoofed.cpp
+  VMatrix.cpp
+  Vector.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  Generating Code...
+  Compiling...
+  Settings.cpp
+  Generating Code...
+     Creating library E:\SNAPSHOOKXYZ Website\SNAPSHOOK\RESOLVE\Release\cheat.lib and object E:\SNAPSHOOKXYZ Website\SNAPSHOOK\RESOLVE\Release\cheat.exp
+  INDIGO.vcxproj -> E:\SNAPSHOOKXYZ Website\SNAPSHOOK\RESOLVE\Release\cheat.dll
